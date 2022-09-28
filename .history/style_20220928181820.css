@@ -367,6 +367,8 @@ body {
   -14px 14px 3px rgba(0, 0, 0, 0.26),
   -16px 16px 4px rgba(0, 0, 0, 0.26),
   -18px 18px 4px rgba(0, 0, 0, 0.26);
+  color: white;
+  
 }
 .middle-box{
   position: absolute;
